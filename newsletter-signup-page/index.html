@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Newsletter Signup</title>
+</head>
+<body>
+
+  <header>
+    <h1>📬 Join Our Newsletter</h1>
+    <p>Get the latest updates, tips, and resources straight to your inbox.</p>
+    <hr>
+  </header>
+
+  <main>
+    <section>
+      <form action="/subscribe" method="post">
+
+        <fieldset>
+          <legend>📝 Your Details</legend>
+
+          <label for="name">Full Name:</label><br>
+          <input type="text" id="name" name="name" required><br><br>
+
+          <label for="email">Email Address:</label><br>
+          <input type="email" id="email" name="email" required><br><br>
+
+          <label for="frequency">How often do you want updates?</label><br>
+          <select id="frequency" name="frequency">
+            <option value="weekly">Weekly</option>
+            <option value="monthly">Monthly</option>
+            <option value="occasionally">Occasionally</option>
+          </select><br><br>
+
+          <label>
+            <input type="checkbox" name="agree" required>
+            I agree to receive emails and accept the privacy policy.
+          </label><br><br>
+
+          <button type="submit">Subscribe Now</button>
+        </fieldset>
+
+      </form>
+    </section>
+  </main>
+
+  <footer>
+    <hr>
+    <p>🔒 Your information is safe with us. No spam ever.</p>
+    <p>&copy; 2025 Pro Developer Newsletter</p>
+  </footer>
+
+</body>
+</html>
