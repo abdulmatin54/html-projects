@@ -19,7 +19,7 @@ Each project focuses on **semantic HTML**, **accessible markup**, and clean stru
 | No. | Project Name               | Source Code | Live Preview | Why It Stands Out |
 |-----|----------------------------|-------------|--------------|--------------------|
 | 01  | Developer Resume Page      | [View Code](https://github.com/abdulmatin54/html-projects/tree/main/developer-resume-page) | [Preview Site](https://abdulmatin54.github.io/html-projects/developer-resume-page/index.html) | Clean resume layout using semantic HTML tags |
-| 02  | Simple Blog Post Page      | [View Code](#) | [Preview Site](#) | Article, headings, code blocks, quotes, and lists |
+| 02  | Simple Blog Post Page      | [View Code](https://github.com/abdulmatin54/html-projects/tree/main/simple-blog-post-page) | [Preview Site](#) | Article, headings, code blocks, quotes, and lists |
 | 03  | Pricing Table Layout       | [View Code](#) | [Preview Site](#) | Replicates modern SaaS pricing UI layout |
 | 04  | FAQ Accordion (Pure HTML)  | [View Code](#) | [Preview Site](#) | Built using only `<details>` and `<summary>` |
 | 05  | Newsletter Signup Page     | [View Code](#) | [Preview Site](#) | Form structure, input validation attributes |
