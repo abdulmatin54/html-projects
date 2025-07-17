@@ -22,7 +22,7 @@ Each project focuses on **semantic HTML**, **accessible markup**, and clean stru
 | 02  | Simple Blog Post Page      | [View Code](https://github.com/abdulmatin54/html-projects/tree/main/simple-blog-post-page) | [Preview Site](https://abdulmatin54.github.io/html-projects/simple-blog-post-page/index.html) | Article, headings, code blocks, quotes, and lists |
 | 03  | Pricing Table Layout       | [View Code](https://github.com/abdulmatin54/html-projects/tree/main/pricing-table-layout) | [Preview Site](https://abdulmatin54.github.io/html-projects/pricing-table-layout/index.html) | Replicates modern SaaS pricing UI layout |
 | 04  | FAQ Accordion (Pure HTML)  | [View Code](https://github.com/abdulmatin54/html-projects/tree/main/faq-accordion) | [Preview Site](https://abdulmatin54.github.io/html-projects/faq-accordion/index.html) | Built using only `<details>` and `<summary>` |
-| 05  | Newsletter Signup Page     | [View Code](#) | [Preview Site](#) | Form structure, input validation attributes |
+| 05  | Newsletter Signup Page     | [View Code](https://github.com/abdulmatin54/html-projects/tree/main/newsletter-signup-page) | [Preview Site](https://abdulmatin54.github.io/html-projects/newsletter-signup-page/index.html) | Form structure, input validation attributes |
 ### 🧩 Level 2: Real-World Sections (Client Work Style)
 | No. | Project Name               | Source Code | Live Preview | Why It Stands Out |
 |-----|----------------------------|-------------|--------------|--------------------|
