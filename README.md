@@ -5,15 +5,6 @@
 Each project focuses on **semantic HTML**, **accessible markup**, and clean structure — no CSS, no JavaScript — just pure, scalable HTML that every great developer needs.
 
 ---
-
-## 🚀 Why This Repo?
-
-- ✅ Industry-ready HTML structure
-- ✅ Semantic, SEO-friendly, accessible markup
-- ✅ Perfect for resumes, portfolios, and job prep
-- ✅ Build real-world confidence, the right way
-
----
 ## 📜 Project List
 ### 🧱 Level 1: Foundation Projects (Structure + Semantics)
 | No. | Project Name               | Source Code | Live Preview | Why It Stands Out |
@@ -26,19 +17,19 @@ Each project focuses on **semantic HTML**, **accessible markup**, and clean stru
 ### 🧩 Level 2: Real-World Sections (Client Work Style)
 | No. | Project Name               | Source Code | Live Preview | Why It Stands Out |
 |-----|----------------------------|-------------|--------------|--------------------|
-| 06  | SaaS Hero Section          | [View Code](#) | [Preview Site](#) | Mimics marketing hero sections of landing pages |
-| 07  | Testimonial Section        | [View Code](#) | [Preview Site](#) | Real testimonial layout with clean blockquotes |
-| 08  | Landing Page Skeleton      | [View Code](#) | [Preview Site](#) | Full page layout: Nav → Hero → Features → Footer |
-| 09  | Login/Register Form Page   | [View Code](#) | [Preview Site](#) | Input fields, labels, semantic form tags |
-| 10  | Contact Form Page          | [View Code](#) | [Preview Site](#) | Input types, textarea, field grouping |
+| 06  | SaaS Hero Section          | [View Code](https://github.com/abdulmatin54/html-projects/tree/main/SaaS%20Hero%20Section) | [Preview Site](https://abdulmatin54.github.io/html-projects/SaaS%20Hero%20Section/index.html) | Mimics marketing hero sections of landing pages |
+| 07  | Testimonial Section        | [View Code](https://github.com/abdulmatin54/html-projects/tree/main/testimonial%20section) | [Preview Site](https://abdulmatin54.github.io/html-projects/testimonial%20section/index.html) | Real testimonial layout with clean blockquotes |
+| 08  | Landing Page Skeleton      | [View Code](https://github.com/abdulmatin54/html-projects/tree/main/landing%20page%20skeleton) | [Preview Site](https://abdulmatin54.github.io/html-projects/landing%20page%20skeleton/index.html) | Full page layout: Nav → Hero → Features → Footer |
+| 09  | Login/Register Form Page   | [View Code](https://github.com/abdulmatin54/html-projects/tree/main/login-register%20form%20page) | [Preview Site](https://abdulmatin54.github.io/html-projects/login-register%20form%20page/index.html) | Input fields, labels, semantic form tags |
+| 10  | Contact Form Page          | [View Code](https://github.com/abdulmatin54/html-projects/tree/main/contact%20form%20page) | [Preview Site](https://abdulmatin54.github.io/html-projects/contact%20form%20page/index.html) | Input types, textarea, field grouping |
 ### 🖥️ Level 3: UI/UX Flex Projects (Think Like UI Dev)
 | No. | Project Name               | Source Code | Live Preview | Why It Stands Out |
 |-----|----------------------------|-------------|--------------|--------------------|
-| 11  | Restaurant Menu Layout     | [View Code](#) | [Preview Site](#) | Uses `section`, `article`, `ul/li`, rich info |
-| 12  | Portfolio Project Grid     | [View Code](#) | [Preview Site](#) | Card-based layout with `figure`, `figcaption` |
-| 13  | Comparison Table Page      | [View Code](#) | [Preview Site](#) | Structured `<table>` with clear rows/cols |
-| 14  | 404 Not Found Page         | [View Code](#) | [Preview Site](#) | Shows creative UX thinking with fallback page |
-| 15  | Terms & Privacy Page       | [View Code](#) | [Preview Site](#) | Long-form HTML with headings, lists, accessibility tags |
+| 11  | Restaurant Menu Layout     | [View Code](https://github.com/abdulmatin54/html-projects/tree/main/Restaurant%20Menu%20layout) | [Preview Site](https://abdulmatin54.github.io/html-projects/Restaurant%20Menu%20layout/index.html) | Uses `section`, `article`, `ul/li`, rich info |
+| 12  | Portfolio Project Grid     | [View Code](https://github.com/abdulmatin54/html-projects/tree/main/portfolio%20project%20grid) | [Preview Site](https://abdulmatin54.github.io/html-projects/portfolio%20project%20grid/index.html) | Card-based layout with `figure`, `figcaption` |
+| 13  | Comparison Table Page      | [View Code](https://github.com/abdulmatin54/html-projects/tree/main/comparision%20table%20page) | [Preview Site](https://abdulmatin54.github.io/html-projects/comparision%20table%20page/index.html) | Structured `<table>` with clear rows/cols |
+| 14  | 404 Not Found Page         | [View Code](https://github.com/abdulmatin54/html-projects/tree/main/404%20not%20found%20page) | [Preview Site](https://abdulmatin54.github.io/html-projects/404%20not%20found%20page/index.html) | Shows creative UX thinking with fallback page |
+| 15  | Terms & Privacy Page       | [View Code](https://github.com/abdulmatin54/html-projects/tree/main/terms%20%26%20privacy%20page) | [Preview Site](https://abdulmatin54.github.io/html-projects/terms%20%26%20privacy%20page/index.html) | Long-form HTML with headings, lists, accessibility tags |
 
 ---
 ---
